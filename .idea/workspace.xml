@@ -6,14 +6,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55420092-5073-4543-9d91-f47661a44ab0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/007_10001st_prime.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/008_largest_product_in_a_series.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/009_special_pythagorean_triplet.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/010_summation_of_primes.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/011_largest_product_in_a_grid.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/012_highly_divisible_triangular_number.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/projecteuler-solutions.iml" afterPath="$PROJECT_DIR$/.idea/projecteuler-solutions.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/013_large_sum.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/014_longest_collatz_sequence.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/015_lattice_paths.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/016_power_digit_sum.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/017_number_letter_counts.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/018_maximum_path_sum_i.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/007_10001st_prime.py" afterPath="$PROJECT_DIR$/007_10001st_prime.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/008_largest_product_in_a_series.py" afterPath="$PROJECT_DIR$/008_largest_product_in_a_series.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/009_special_pythagorean_triplet.py" afterPath="$PROJECT_DIR$/009_special_pythagorean_triplet.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/010_summation_of_primes.py" afterPath="$PROJECT_DIR$/010_summation_of_primes.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/011_largest_product_in_a_grid.py" afterPath="$PROJECT_DIR$/011_largest_product_in_a_grid.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/012_highly_divisible_triangular_number.py" afterPath="$PROJECT_DIR$/012_highly_divisible_triangular_number.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="projecteuler-solutions.iws" />
@@ -62,6 +66,12 @@
         <option value="$PROJECT_DIR$/010_summation_of_primes.py" />
         <option value="$PROJECT_DIR$/011_largest_product_in_a_grid.py" />
         <option value="$PROJECT_DIR$/012_highly_divisible_triangular_number.py" />
+        <option value="$PROJECT_DIR$/013_large_sum.py" />
+        <option value="$PROJECT_DIR$/014_longest_collatz_sequence.py" />
+        <option value="$PROJECT_DIR$/015_lattice_paths.py" />
+        <option value="$PROJECT_DIR$/016_power_digit_sum.py" />
+        <option value="$PROJECT_DIR$/017_number_letter_counts.py" />
+        <option value="$PROJECT_DIR$/018_maximum_path_sum_i.py" />
       </list>
     </option>
   </component>
@@ -70,7 +80,6 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
-    <option name="y" value="-8" />
     <option name="width" value="1370" />
     <option name="height" value="772" />
   </component>
@@ -171,8 +180,8 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.012_highly_divisible_triangular_number">
-    <configuration default="false" name="008_largest_product_in_a_series" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.018_maximum_path_sum_i">
+    <configuration default="false" name="014_longest_collatz_sequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -184,12 +193,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="projecteuler-solutions" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/008_largest_product_in_a_series.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/014_longest_collatz_sequence.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="009_special_pythagorean_triplet" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="015_lattice_paths" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -201,12 +210,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="projecteuler-solutions" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/009_special_pythagorean_triplet.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/015_lattice_paths.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="010_summation_of_primes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="016_power_digit_sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -218,12 +227,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="projecteuler-solutions" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/010_summation_of_primes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/016_power_digit_sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="011_largest_product_in_a_grid" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="017_number_letter_counts" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -235,12 +244,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="projecteuler-solutions" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/011_largest_product_in_a_grid.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/017_number_letter_counts.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="012_highly_divisible_triangular_number" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="018_maximum_path_sum_i" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -252,7 +261,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="projecteuler-solutions" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/012_highly_divisible_triangular_number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/018_maximum_path_sum_i.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -380,19 +389,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.008_largest_product_in_a_series" />
-      <item index="1" class="java.lang.String" itemvalue="Python.009_special_pythagorean_triplet" />
-      <item index="2" class="java.lang.String" itemvalue="Python.010_summation_of_primes" />
-      <item index="3" class="java.lang.String" itemvalue="Python.011_largest_product_in_a_grid" />
-      <item index="4" class="java.lang.String" itemvalue="Python.012_highly_divisible_triangular_number" />
+      <item index="0" class="java.lang.String" itemvalue="Python.014_longest_collatz_sequence" />
+      <item index="1" class="java.lang.String" itemvalue="Python.015_lattice_paths" />
+      <item index="2" class="java.lang.String" itemvalue="Python.016_power_digit_sum" />
+      <item index="3" class="java.lang.String" itemvalue="Python.017_number_letter_counts" />
+      <item index="4" class="java.lang.String" itemvalue="Python.018_maximum_path_sum_i" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.012_highly_divisible_triangular_number" />
-        <item index="1" class="java.lang.String" itemvalue="Python.011_largest_product_in_a_grid" />
-        <item index="2" class="java.lang.String" itemvalue="Python.010_summation_of_primes" />
-        <item index="3" class="java.lang.String" itemvalue="Python.009_special_pythagorean_triplet" />
-        <item index="4" class="java.lang.String" itemvalue="Python.008_largest_product_in_a_series" />
+        <item index="0" class="java.lang.String" itemvalue="Python.018_maximum_path_sum_i" />
+        <item index="1" class="java.lang.String" itemvalue="Python.017_number_letter_counts" />
+        <item index="2" class="java.lang.String" itemvalue="Python.016_power_digit_sum" />
+        <item index="3" class="java.lang.String" itemvalue="Python.015_lattice_paths" />
+        <item index="4" class="java.lang.String" itemvalue="Python.014_longest_collatz_sequence" />
       </list>
     </recent_temporary>
   </component>
@@ -407,26 +416,34 @@
       <option name="number" value="Default" />
       <updated>1440153895497</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added solutions to problems 7 to 12.">
+      <created>1440246690466</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1440246690466</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1370" height="772" extended-state="0" />
+    <frame x="-8" y="0" width="1370" height="772" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32880846" sideWeight="0.5029542" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40422323" sideWeight="0.3589365" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39969835" sideWeight="0.6986706" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39969835" sideWeight="0.676514" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32880846" sideWeight="0.4970458" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4117647" sideWeight="0.6927622" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32880846" sideWeight="0.49409157" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40422323" sideWeight="0.6410635" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16026588" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32897604" sideWeight="0.4952381" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2562777" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32880846" sideWeight="0.48966026" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2790347" sideWeight="0.49409157" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2790347" sideWeight="0.4911374" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -444,6 +461,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added solutions to problems 7 to 12." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added solutions to problems 7 to 12." />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <default-breakpoints>
@@ -458,7 +479,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/007_10001st_prime.py">
+    <entry file="file://$PROJECT_DIR$/017_number_letter_counts.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -470,7 +491,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/007_10001st_prime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -520,7 +547,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -528,7 +554,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.88950276">
           <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -536,7 +561,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.73480666">
           <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -544,22 +568,63 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.839779">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/011_largest_product_in_a_grid.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43783784">
-          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="73" selection-end-column="21" />
-          <folding />
+        <state vertical-scroll-proportion="0.73480666">
+          <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/013_large_sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.73480666">
+          <caret line="213" column="0" selection-start-line="213" selection-start-column="0" selection-end-line="213" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/012_highly_divisible_triangular_number.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8674033">
+        <state vertical-scroll-proportion="0.73480666">
           <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/014_longest_collatz_sequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.746594">
+          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/015_lattice_paths.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7384196">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/016_power_digit_sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47956404">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/017_number_letter_counts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9128065">
+          <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/018_maximum_path_sum_i.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8692098">
+          <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
           <folding />
         </state>
       </provider>
