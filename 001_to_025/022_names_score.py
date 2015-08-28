@@ -15,7 +15,7 @@ For example, when the list is sorted into alphabetical order, COLIN, which is wo
 What is the total of all the name scores in the file?
 """
 
-with open("resources/p022_names.txt") as f:
+with open("../resources/p022_names.txt") as f:
     names = [s[1:-1] for s in f.readline().split(",")]
 
 names.sort()
